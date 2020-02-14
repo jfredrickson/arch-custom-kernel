@@ -40,3 +40,7 @@ awk -i inplace '
 cd $pkgdir
 updpkgsums
 
+# Done
+
+echo "Patch applied. Package is ready to be built and installed."
+
