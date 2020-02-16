@@ -42,5 +42,5 @@ updpkgsums
 
 # Done
 
-echo "Patch applied. Package is ready to be built and installed."
+echo "Patch prepared. Package is ready to be built and installed."
 
